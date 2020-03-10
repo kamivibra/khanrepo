@@ -1,0 +1,3 @@
+VCS.(Version Control System) 
+allows you to manage multiple revesions of same unit of information.
+e.g. documents or source file.
