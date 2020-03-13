@@ -1,4 +1,0 @@
-VCS.(Version Control System) 
-allows you to manage multiple revesions of same unit of information.
-e.g. documents or source file.
-i am adding a line to make some changes. to the info file.
