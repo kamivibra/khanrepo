@@ -31,4 +31,14 @@ git push origin --tags(to push all created tags at once to remote repository)
 pit push --tags (to push all created tags at once to remote repository)
 git tag -d version name (to delete specific version) or
 git tag --delete version name
+_______________________________________________
+difference in git merge and git rebase
+git merge. 
+is a non-distructive operation
+existing branches are not changed in any way
+creats a new merge commit in the feature branch.
+git rebase---
+moves the entire feature branch to begin on the tip of the master branch
+re-writes the project history.
+we get much cleaner and linear project history.
 
